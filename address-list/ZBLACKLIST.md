@@ -8,7 +8,7 @@ Go to `/system scripts` and create a new script (i.e, zblacklist-updater)
     # Script: zblacklist-updater
     
     :local url "https://raw.githubusercontent.com/lokadns/tik/refs/heads/main/address-list/zblacklist.rsc";    
-    :local fileName "zblacklist.rsc"; #or on your usb drive
+    :local fileName "zblacklist.rsc"; #or onto your usb drive
     :local isError false;
     
     :do {
@@ -120,4 +120,4 @@ This ZBlacklist compiled daily from 3 sources:
  2. Cinsscore.com - https://cinsscore.com/list/ci-badguys.txt
  3. Stamparam IPsum - https://github.com/stamparm/ipsum (Level 8, 7, and 6)
 
-Cheers,
+The first time compiled these sources, it generated 17857 unique ip addresses. Small enough to be combined into a single file. Hope it stays small and firm.
