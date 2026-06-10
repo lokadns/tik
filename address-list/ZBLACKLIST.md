@@ -60,7 +60,7 @@ Go to `/system scheduler` and create two schedules: routine updater and on start
 
 
 # Deploy ZBlacklist
-There are many ways to stop the attack into Mikrotik. Here just one example using prerouting in RAW and blackhole in NAT.
+There are many ways to stop the attack into Mikrotik. Here just one example using RAW and NAT for blackholing.
 
 ## 1. Add blackhole routing table
 
