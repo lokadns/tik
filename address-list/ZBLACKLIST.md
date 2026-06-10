@@ -105,8 +105,8 @@ ADDR -->> RAW: ZBlacklist is coming!
 RAW -->> ADDR: Add into XBlacklist 
 Guest ->> NAT: Knock... knock...
 ADDR -->> NAT: Its flagged as XBlacklist.
-NAT ->> Blackholed (Guest): I'll send into Blackhole
-Guest --x Blackholed (Guest): Hmmm... why there is no response?
+NAT -->> Blackholed (Guest): I'll send it into Blackhole
+Guest -x Blackholed (Guest): Hmmm... why there is no response?
 ```
 
 
