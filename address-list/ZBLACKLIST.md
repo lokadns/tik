@@ -13,7 +13,7 @@ Go to `/system scripts` and create a new script (i.e, zblacklist-updater)
     
     :do {
         # download file
-        /tool fetch url=$url mode=http dst-path=$fileName;
+        /tool fetch url=$url mode=https dst-path=$fileName;
     } on-error {
         :set isError true;
     }
