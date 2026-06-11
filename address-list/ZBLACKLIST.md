@@ -121,8 +121,10 @@ This ZBlacklist compiled daily from 3 sources:
  3. Stamparam IPsum - https://github.com/stamparm/ipsum (Level 8, 7, and 6)
 
 The first time compiled these sources, it generated 17857 unique ip addresses. Small enough to be combined into a single file. Hope it stays small and firm.
+
 **Download**: https://raw.githubusercontent.com/lokadns/tik/refs/heads/main/address-list/zblacklist.rsc
 
 ### Extended Version
 ZBlacklist Extended version compiled weekly from those 3 sources above and Infoblox vextrio threat (see https://raw.githubusercontent.com/infobloxopen/threat-intelligence/refs/heads/main/indicators/combined.csv). This extended version contain nearly 40K unique ip addresses.
+
 **Download**: https://raw.githubusercontent.com/lokadns/tik/refs/heads/main/address-list/zblacklist_extended.rsc
