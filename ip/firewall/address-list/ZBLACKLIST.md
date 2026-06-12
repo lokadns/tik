@@ -7,7 +7,7 @@ Go to `/system scripts` and create a new script (i.e, zblacklist-updater)
 
     # Script: zblacklist-updater
     
-    :local url "https://raw.githubusercontent.com/lokadns/tik/refs/heads/main/address-list/zblacklist.rsc";    
+    :local url "https://raw.githubusercontent.com/lokadns/tik/refs/heads/main/ip/firewall/address-list/zblacklist.rsc";    
     :local fileName "zblacklist.rsc"; #or onto your usb drive
     :local isError false;
     
@@ -122,11 +122,9 @@ This ZBlacklist compiled daily from 3 sources:
 
 The first time compiled these sources, it generated 17857 unique ip addresses. Small enough to be combined into a single file. Hope it stays small and firm.
 
-**Download**: https://raw.githubusercontent.com/lokadns/tik/refs/heads/main/address-list/zblacklist.rsc
+**Download**: https://raw.githubusercontent.com/lokadns/tik/refs/heads/main/ip/firewall/address-list/zblacklist.rsc
 
 ### Extended Version
-ZBlacklist Extended version compiled weekly from those 3 sources above and Infoblox vextrio threat. This extended version contain nearly 30K unique ip addresses.
+ZBlacklist Extended version compiled weekly from those 3 sources above and Infoblox vextrio threat. This extended version contain nearly 30K unique ip addresses. See https://github.com/infobloxopen/threat-intelligence and their [CSV file](https://raw.githubusercontent.com/infobloxopen/threat-intelligence/refs/heads/main/indicators/combined.csv).
 
-**Download**: https://raw.githubusercontent.com/lokadns/tik/refs/heads/main/address-list/zblacklist_extended.rsc
-
-See https://github.com/infobloxopen/threat-intelligence or directly to the CSV file: https://raw.githubusercontent.com/infobloxopen/threat-intelligence/refs/heads/main/indicators/combined.csv
+**Download**: https://raw.githubusercontent.com/lokadns/tik/refs/heads/main/ip/firewall/address-list/zblacklist_extended.rsc
