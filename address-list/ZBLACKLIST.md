@@ -85,9 +85,9 @@ There are many ways to stop the attack into Mikrotik. Here just one example usin
         in-interface-list=WAN src-address-list=ZBlacklist disabled=no 
     add action=add-src-to-address-list address-list=XBlacklist \
         address-list-timeout=30m chain=prerouting comment="DHCP/SSH/Telnet" \
-        in-interface-list=WAN protocol=tcp dst-port=53,22,23 disabled=yes 
+        in-interface-list=WAN protocol=tcp dst-port=21,22,23,8291 disabled=yes 
 
-If you want to open SSH for local network and block it from the internet (WAN), feel free to enable the second rule.
+If you want to open SSH or WinBox from local network and block it from the internet (WAN), feel free to enable the second rule.
 
 ## 4. Add blackholing in NAT
 
