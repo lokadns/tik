@@ -1,6 +1,5 @@
 # Source: Infoblox Threat Intelligence (Vextrio - Last 1 Year)
 0.0.0.0 aboutjoemilo.com
-0.0.0.0 aduldating.store
 0.0.0.0 adultsonlymatch.live
 0.0.0.0 aeroarrows.io
 0.0.0.0 aestymod.my
@@ -48,7 +47,6 @@
 0.0.0.0 boltrexian.my
 0.0.0.0 bonnierabbit.my
 0.0.0.0 booniecollins.digital
-0.0.0.0 borvaline.my
 0.0.0.0 bravonelix.my
 0.0.0.0 brelanovit.my
 0.0.0.0 brelomutiva.my
@@ -58,7 +56,6 @@
 0.0.0.0 brelovantix.my
 0.0.0.0 brelunetova.digital
 0.0.0.0 brentovixa.my
-0.0.0.0 bretomira.my
 0.0.0.0 briannadymond.my
 0.0.0.0 briellamodel.my
 0.0.0.0 bright-couples.com
@@ -73,7 +70,6 @@
 0.0.0.0 brynolutexa.my
 0.0.0.0 brynolutexa.shop
 0.0.0.0 brynotexil.my
-0.0.0.0 brysolven.my
 0.0.0.0 bulventira.my
 0.0.0.0 bylomarex.my
 0.0.0.0 bylonavurex.my
@@ -131,8 +127,6 @@
 0.0.0.0 crazy-meet-paradise.com
 0.0.0.0 crazys-ladyonlines.com
 0.0.0.0 crazy-sweetclickes.com
-0.0.0.0 crenavoti.my
-0.0.0.0 crysolven.my
 0.0.0.0 cupi-datingzones.com
 0.0.0.0 cupi-honeyreals.com
 0.0.0.0 cupiladydreampartners.com
@@ -178,13 +172,11 @@
 0.0.0.0 dazalyn.my
 0.0.0.0 delynqua.my
 0.0.0.0 devonbreeze.my
-0.0.0.0 dexalorin.my
 0.0.0.0 dexuralion.my
 0.0.0.0 dirtydateclub.com
 0.0.0.0 discreetnights.live
 0.0.0.0 dollymod.rest
 0.0.0.0 domarexil.my
-0.0.0.0 dralonexa.my
 0.0.0.0 dralonexim.my
 0.0.0.0 dralovantix.my
 0.0.0.0 dralovexin.my
@@ -210,13 +202,11 @@
 0.0.0.0 drelunovar.my
 0.0.0.0 drexalino.my
 0.0.0.0 drofantire.my
-0.0.0.0 dronelyta.my
 0.0.0.0 dronivetal.my
 0.0.0.0 drovanelux.my
 0.0.0.0 droxanivex.my
 0.0.0.0 droxanuvia.my
 0.0.0.0 druvalonex.my
-0.0.0.0 duronexil.my
 0.0.0.0 durvenolit.my
 0.0.0.0 duvionelra.my
 0.0.0.0 dylaretunox.my
@@ -258,7 +248,6 @@
 0.0.0.0 felunarex.my
 0.0.0.0 femsquad.rest
 0.0.0.0 fenolurexi.my
-0.0.0.0 fenolutra.my
 0.0.0.0 fenoriluxa.my
 0.0.0.0 fenorutiva.my
 0.0.0.0 feratoxulav.my
@@ -305,11 +294,9 @@
 0.0.0.0 fynatrexilo.my
 0.0.0.0 fynavorulet.my
 0.0.0.0 fyneluxora.my
-0.0.0.0 fynoltrex.my
 0.0.0.0 fynolurex.my
 0.0.0.0 fynorevilt.my
 0.0.0.0 fynorexial.my
-0.0.0.0 fynorexia.my
 0.0.0.0 fynorexila.my
 0.0.0.0 fynorexilum.digital
 0.0.0.0 fynortavel.rest
@@ -354,7 +341,6 @@
 0.0.0.0 gronavilex.my
 0.0.0.0 gronivexa.my
 0.0.0.0 gronivexul.my
-0.0.0.0 grymoreta.my
 0.0.0.0 gurudating-top.com
 0.0.0.0 halunirex.my
 0.0.0.0 harniveluq.my
@@ -362,7 +348,6 @@
 0.0.0.0 helonatrix.my
 0.0.0.0 helonurex.my
 0.0.0.0 heltranoxi.my
-0.0.0.0 helvarion.my
 0.0.0.0 helvariont.my
 0.0.0.0 helvondurat.my
 0.0.0.0 helvontira.my
@@ -383,7 +368,6 @@
 0.0.0.0 hotlovelove.com
 0.0.0.0 hotromanceseekers.com
 0.0.0.0 hotyface.rest
-0.0.0.0 hulmorixa.my
 0.0.0.0 hulorexani.my
 0.0.0.0 hyralontex.my
 0.0.0.0 hyranduvite.my
@@ -409,7 +393,6 @@
 0.0.0.0 jorlunetax.my
 0.0.0.0 jorlunetix.my
 0.0.0.0 jornalutex.my
-0.0.0.0 jornaveli.my
 0.0.0.0 jornavelix.my
 0.0.0.0 jorvalenix.my
 0.0.0.0 jorvexina.my
@@ -426,7 +409,6 @@
 0.0.0.0 jurnovalite.shop
 0.0.0.0 juronavexi.my
 0.0.0.0 juronelvia.my
-0.0.0.0 juronetix.my
 0.0.0.0 justfornights.com
 0.0.0.0 jylorexan.my
 0.0.0.0 kaevynna.my
@@ -434,7 +416,6 @@
 0.0.0.0 kalurevox.my
 0.0.0.0 kalvenorix.my
 0.0.0.0 kamirexol.my
-0.0.0.0 karnelyon.my
 0.0.0.0 karnovexil.my
 0.0.0.0 karnuvexil.my
 0.0.0.0 katyamodel.my
@@ -463,8 +444,6 @@
 0.0.0.0 kisunarex.my
 0.0.0.0 kitkatz.my
 0.0.0.0 kolurexam.my
-0.0.0.0 korandely.my
-0.0.0.0 korvaline.my
 0.0.0.0 kralonuvite.my
 0.0.0.0 kramonetiv.my
 0.0.0.0 krenolutix.my
@@ -530,7 +509,6 @@
 0.0.0.0 lunatrexil.my
 0.0.0.0 lunaverqix.my
 0.0.0.0 lunexi.my
-0.0.0.0 lunorexia.my
 0.0.0.0 lurellia.my
 0.0.0.0 lustandhoney.com
 0.0.0.0 luxarentia.my
@@ -548,7 +526,6 @@
 0.0.0.0 luxorenival.my
 0.0.0.0 luxorenvita.my
 0.0.0.0 luxyana.rest
-0.0.0.0 lymerosta.my
 0.0.0.0 lymonarexi.my
 0.0.0.0 lymorentix.my
 0.0.0.0 lyranovex.my
@@ -579,7 +556,6 @@
 0.0.0.0 melurafix.my
 0.0.0.0 melurexian.my
 0.0.0.0 meluronitax.my
-0.0.0.0 melvarion.my
 0.0.0.0 melvarotin.my
 0.0.0.0 melvarotin.rest
 0.0.0.0 melvorentia.my
@@ -734,8 +710,6 @@
 0.0.0.0 morvelitax.my
 0.0.0.0 morvilexan.my
 0.0.0.0 morvindale.my
-0.0.0.0 moventrix.my
-0.0.0.0 movirexan.my
 0.0.0.0 movuretxial.my
 0.0.0.0 moxileya.rest
 0.0.0.0 moxivana.my
@@ -753,7 +727,6 @@
 0.0.0.0 musemoda.my
 0.0.0.0 museviq.rest
 0.0.0.0 museyella.my
-0.0.0.0 mydatingsmatches.com
 0.0.0.0 mylady-dating.com
 0.0.0.0 mylovepath.xyz
 0.0.0.0 mylove-storys.com
@@ -792,7 +765,6 @@
 0.0.0.0 navorilexa.my
 0.0.0.0 navorixal.my
 0.0.0.0 navorlexia.my
-0.0.0.0 navorlien.my
 0.0.0.0 navortelium.my
 0.0.0.0 navorutela.my
 0.0.0.0 navurnetilo.digital
@@ -835,7 +807,6 @@
 0.0.0.0 nurvalotemi.my
 0.0.0.0 nuvandorex.my
 0.0.0.0 nuvarexil.my
-0.0.0.0 nylomerta.my
 0.0.0.0 nyloravexi.my
 0.0.0.0 nymarotexi.my
 0.0.0.0 nymarune.my
@@ -868,7 +839,6 @@
 0.0.0.0 polarnutex.my
 0.0.0.0 polkurevin.my
 0.0.0.0 polmeturig.my
-0.0.0.0 polurexia.my
 0.0.0.0 ponalurexid.my
 0.0.0.0 ponexarvuli.my
 0.0.0.0 pontevlira.my
@@ -900,7 +870,6 @@
 0.0.0.0 qertolavuni.my
 0.0.0.0 qerunavolix.my
 0.0.0.0 qirandolex.my
-0.0.0.0 qiravento.my
 0.0.0.0 qiremondy.my
 0.0.0.0 qodelyne.my
 0.0.0.0 quandarovix.my
@@ -916,11 +885,9 @@
 0.0.0.0 quenvitora.my
 0.0.0.0 quintelora.my
 0.0.0.0 quintoreva.my
-0.0.0.0 quintorex.my
 0.0.0.0 qularentovi.digital
 0.0.0.0 qulernativa.my
 0.0.0.0 qunavoliter.my
-0.0.0.0 quorandix.my
 0.0.0.0 quorintely.my
 0.0.0.0 quvenorlita.my
 0.0.0.0 quvenorlita.shop
@@ -959,7 +926,6 @@
 0.0.0.0 savolurexia.digital
 0.0.0.0 savolurexi.my
 0.0.0.0 savoniruxy.my
-0.0.0.0 savorexil.my
 0.0.0.0 savorexium.my
 0.0.0.0 savorexium.rest
 0.0.0.0 savortenix.my
@@ -979,7 +945,6 @@
 0.0.0.0 showmods.rest
 0.0.0.0 siennamodel.my
 0.0.0.0 silagenty.my
-0.0.0.0 siltraxen.my
 0.0.0.0 simplehub.pro
 0.0.0.0 sissiviter.my
 0.0.0.0 skelmorita.my
@@ -1031,12 +996,9 @@
 0.0.0.0 syranovile.my
 0.0.0.0 syronutavex.my
 0.0.0.0 syvalorna.my
-0.0.0.0 syvaltren.my
-0.0.0.0 syverolin.my
 0.0.0.0 tanirexlu.my
 0.0.0.0 tanolurex.my
 0.0.0.0 tarnelovia.my
-0.0.0.0 tarnoveli.my
 0.0.0.0 tarnulexia.my
 0.0.0.0 tarnulexovi.my
 0.0.0.0 tarnurexilo.my
@@ -1046,7 +1008,6 @@
 0.0.0.0 tarnuvorexa.my
 0.0.0.0 tarofelyn.my
 0.0.0.0 telvaronix.my
-0.0.0.0 telynorix.my
 0.0.0.0 terlunovaxi.my
 0.0.0.0 terlunovaxi.shop
 0.0.0.0 tervalion.my
@@ -1088,7 +1049,6 @@
 0.0.0.0 trulovexin.my
 0.0.0.0 trunavexil.my
 0.0.0.0 trylonavex.my
-0.0.0.0 trylonexa.my
 0.0.0.0 trylonexia.my
 0.0.0.0 tryloventa.my
 0.0.0.0 trylunexia.my
@@ -1104,7 +1064,6 @@
 0.0.0.0 valenturoni.my
 0.0.0.0 valeremodel.my
 0.0.0.0 valimoxe.my
-0.0.0.0 valmonire.my
 0.0.0.0 valonturexi.digital
 0.0.0.0 valorentix.my
 0.0.0.0 valprenox.my
@@ -1139,7 +1098,6 @@
 0.0.0.0 vexarunolit.my
 0.0.0.0 vexolunira.my
 0.0.0.0 vexolurnia.my
-0.0.0.0 vextarion.my
 0.0.0.0 vezanory.my
 0.0.0.0 vibemusemodel.my
 0.0.0.0 vibewithmodel.my
@@ -1158,7 +1116,6 @@
 0.0.0.0 vizalya.my
 0.0.0.0 vornaletix.my
 0.0.0.0 vornelutaxi.my
-0.0.0.0 vornelyta.my
 0.0.0.0 vornelyxia.my
 0.0.0.0 vornelyxio.my
 0.0.0.0 vornulexapi.my
@@ -1204,8 +1161,6 @@
 0.0.0.0 workfeed.rest
 0.0.0.0 wowfaces.rest
 0.0.0.0 wylentirax.my
-0.0.0.0 wyleronix.my
-0.0.0.0 wylomirax.my
 0.0.0.0 wylonavire.my
 0.0.0.0 wylondirex.my
 0.0.0.0 wylonteruva.digital
@@ -1227,13 +1182,11 @@
 0.0.0.0 xelarnotiv.my
 0.0.0.0 xeldurivan.my
 0.0.0.0 xellymod.rest
-0.0.0.0 xelondira.my
 0.0.0.0 xelonurevat.digital
 0.0.0.0 xeloranith.my
 0.0.0.0 xelturniva.my
 0.0.0.0 xelturnovia.my
 0.0.0.0 xeluvorant.my
-0.0.0.0 xelvarino.my
 0.0.0.0 xelvundaret.my
 0.0.0.0 xenaleblanc.my
 0.0.0.0 xenamodel.my
@@ -1255,7 +1208,6 @@
 0.0.0.0 xildorevan.my
 0.0.0.0 ximolurex.my
 0.0.0.0 ximoradelt.my
-0.0.0.0 xirandelo.my
 0.0.0.0 xirelunat.my
 0.0.0.0 xonduretal.my
 0.0.0.0 xorilantov.my
@@ -1303,7 +1255,6 @@
 0.0.0.0 zarnuvexila.my
 0.0.0.0 zaryxmod.rest
 0.0.0.0 zaviella.my
-0.0.0.0 zavonirex.my
 0.0.0.0 zelanofix.my
 0.0.0.0 zeldumirax.my
 0.0.0.0 zellymod.my
@@ -1312,7 +1263,6 @@
 0.0.0.0 zelmoritav.my
 0.0.0.0 zelmuravoti.my
 0.0.0.0 zelmuravoti.shop
-0.0.0.0 zeltravio.my
 0.0.0.0 zeltrionex.my
 0.0.0.0 zelufrida.my
 0.0.0.0 zelvarionex.my
@@ -1324,7 +1274,6 @@
 0.0.0.0 zenortuvia.my
 0.0.0.0 zenovurita.my
 0.0.0.0 zernivalox.my
-0.0.0.0 zernotiva.my
 0.0.0.0 ziremoday.my
 0.0.0.0 zivaleen.my
 0.0.0.0 zoeymodel.my
@@ -1359,6 +1308,5 @@
 0.0.0.0 zylomarex.my
 0.0.0.0 zyltarenox.my
 0.0.0.0 zymorantix.my
-0.0.0.0 zymorelin.my
 0.0.0.0 zynorexilum.my
 0.0.0.0 zytromavel.my
