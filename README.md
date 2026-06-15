@@ -1,3 +1,3 @@
 Initial commit
 
-See [ZBLACKLIST.md](https://github.com/lokadns/tik/blob/main/ip/firewall/address-list/ZBLACKLIST.md) for deploying 'blacklist' ip address onto Mikrotik.
+For deploying ip address blacklist, see [ZBLACKLIST.md](https://github.com/lokadns/tik/blob/main/ip/firewall/address-list/ZBLACKLIST.md).
